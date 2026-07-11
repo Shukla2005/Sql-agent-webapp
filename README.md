@@ -233,10 +233,6 @@ https://www.linkedin.com/in/shuklaarjun28/
 
 https://github.com/Shukla2005
 
-🌐 **Live Demo**
-
-https://sql-agent-webapp-aaw6ztvpelygdtxk2gt5qp.streamlit.app/
-
 ---
 
 ## ⭐ If you found this project useful, don't forget to give it a Star on GitHub!
