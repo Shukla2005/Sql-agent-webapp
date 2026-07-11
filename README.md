@@ -14,7 +14,7 @@ Ask questions about your SQL database in plain English and get instant answers p
 
 ## 🚀 Demo
 
-https://sql-agent-webapp-airekgjmyfzyymwuffhyv3.streamlit.app/
+https://sql-agent-webapp-aaw6ztvpelygdtxk2gt5qp.streamlit.app/
 
 **Try asking:**
 - "What tables are in this database?"
@@ -447,7 +447,7 @@ streamlit run app.py --server.port 8502
 ### Getting Help
 
 - 📖 Check the [LangChain Documentation](https://python.langchain.com/docs)
-- 💬 Open an issue on [GitHub Issues](https://github.com/Arjit-Shukla7/Sql-agent-webapp/issues)
+- 💬 Open an issue on [GitHub Issues](https://github.com/Shukla2005/Sql-agent-webapp/issues)
 - 🐦 Tweet at [@langchainai](https://twitter.com/langchainai)
 
 ## 🤝 Contributing
@@ -456,7 +456,7 @@ Contributions are welcome! Here's how:
 
 ### Reporting Bugs
 
-1. Check if the bug is already reported in [Issues](https://github.com/Arjit-Shukla7/Sql-agent-webapp/issues)
+1. Check if the bug is already reported in [Issues](https://github.com/Shukla2005/Sql-agent-webapp/issues)
 2. If not, create a new issue with:
    - Clear title
    - Steps to reproduce
@@ -500,7 +500,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 Arjit Shukla
+Copyright (c) 2025 Arjun Shukla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -509,11 +509,11 @@ in the Software without restriction...
 ## 📧 Contact
 
 **Arjit Shukla**
-- GitHub: [@Arjit-Shukla7](https://github.com/Arjit-Shukla7)
-- Project Link: [https://github.com/Arjit-Shukla7/Sql-agent-webapp](https://github.com/Arjit-Shukla7/Sql-agent-webapp)
+- GitHub: [@Arjit-Shukla7](https://github.com/Shukla2005)
+- Project Link: [https://github.com/Shukla2005/Sql-agent-webapp](https://github.com/Shukla2005/Sql-agent-webapp)
 MIT License
 
-Copyright (c) 2025 Arjit Shukla
+Copyright (c) 2025 Arjun Shukla
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
