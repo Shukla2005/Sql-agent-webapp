@@ -1,7 +1,7 @@
 streamlit
+python-dotenv
 langchain
-langgraph
 langchain-community
 langchain-groq
-python-dotenv
-sqlalchemy
+langchain-core
+langgraph
